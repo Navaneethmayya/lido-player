@@ -272,7 +272,6 @@ export class LidoHome {
   this.containers = containers;
   }
 
-
   // update arrow visibility
 
   private updateArrowVisibility = () => {

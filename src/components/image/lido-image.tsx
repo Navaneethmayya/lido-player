@@ -17,7 +17,7 @@ import tinyColor from 'tinycolor2';
 })
 export class LidoImage {
   /**
-   * Unique identifier for the text element.
+   * Unique identifier for the image.
    */
   @Prop() id: string;
 

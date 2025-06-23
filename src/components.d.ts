@@ -623,7 +623,7 @@ export namespace Components {
          */
         "height": string;
         /**
-          * Unique identifier for the text element.
+          * Unique identifier for the image.
          */
         "id": string;
         /**
@@ -2237,7 +2237,7 @@ declare namespace LocalJSX {
          */
         "height"?: string;
         /**
-          * Unique identifier for the text element.
+          * Unique identifier for the image.
          */
         "id"?: string;
         /**

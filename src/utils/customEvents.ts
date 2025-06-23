@@ -17,7 +17,6 @@ export function dispatchNextContainerEvent() {
   dispatchCustomEvent(NextContainerKey, {});
 }
 
-//below I added
 export function dispatchPrevContainerEvent(){
   dispatchCustomEvent(PrevContainerKey,{});
 }

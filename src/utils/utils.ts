@@ -138,7 +138,6 @@ export const executeActions = async (actionsString: string, thisElement: HTMLEle
           await AudioPlayer.getI().stop();
           break;
         }
-
         case 'sleep': {
           const isNumber = !isNaN(Number(action.value));
           if (isNumber) {
@@ -146,7 +145,6 @@ export const executeActions = async (actionsString: string, thisElement: HTMLEle
           }
           break;
         }
-
         case 'avatarAnimate': {
           const riveService = RiveService.getInstance();
           const riveInstance = riveService.getRiveInstance();

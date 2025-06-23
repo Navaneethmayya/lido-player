@@ -240,7 +240,6 @@ export class LidoContainer {
    * - Adds event listeners for `resize` and `load` to rescale the container on window size changes.
    */
 
-  
   componentDidLoad() {
     // console.log("eleement : ", this.el);
     

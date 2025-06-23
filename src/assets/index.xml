@@ -1,5 +1,4 @@
 <main>
-
 	<!--Normal image -->
 
 	<lido-container showNextButton="true" showPrevButton="true" id="lido-container1" tabIndex="1" bgImage="" height="1600px" width="900px" value="mainContainer4" objective="" ariaLabel="" x="0" y="0" z="0" visible="true" audio="" onTouch="" onCorrect="" onEntry="" onInCorrect="lido-avatar.avatarAnimate='Fail'; this.sleep='2000';" showCheck="false" isContinueOnCorrect="true">

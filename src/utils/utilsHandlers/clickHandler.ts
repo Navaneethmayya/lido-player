@@ -23,9 +23,6 @@ export function addClickListenerForClickType(element: HTMLElement): void {
     return;
   }
 
-  
-  
-
   const onClick = async () => {
     const getbtntype=element.getAttribute("type");
     if(getbtntype=="click"){
